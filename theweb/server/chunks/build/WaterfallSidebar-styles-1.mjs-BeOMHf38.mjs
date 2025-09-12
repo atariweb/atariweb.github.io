@@ -1,0 +1,4 @@
+const WaterfallSidebar_vue_vue_type_style_index_0_scoped_069b2cf8_lang = "nav[data-v-069b2cf8]::-webkit-scrollbar{width:4px}nav[data-v-069b2cf8]::-webkit-scrollbar-track{background:#ffffff1a;border-radius:2px}nav[data-v-069b2cf8]::-webkit-scrollbar-thumb{background:#ffffff4d;border-radius:2px}nav[data-v-069b2cf8]::-webkit-scrollbar-thumb:hover{background:#ffffff80}.backdrop-blur-xl[data-v-069b2cf8]{-webkit-backdrop-filter:blur(24px) saturate(180%);backdrop-filter:blur(24px) saturate(180%)}@media (max-width:480px){.max-w-md[data-v-069b2cf8]{max-width:100%}.w-\\[95\\%\\][data-v-069b2cf8]{width:98%}}@media (prefers-reduced-motion:reduce){.transition-all[data-v-069b2cf8]{transition:none}}";
+
+export { WaterfallSidebar_vue_vue_type_style_index_0_scoped_069b2cf8_lang as W };
+//# sourceMappingURL=WaterfallSidebar-styles-1.mjs-BeOMHf38.mjs.map

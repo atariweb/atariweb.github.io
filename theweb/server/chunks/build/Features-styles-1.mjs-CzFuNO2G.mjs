@@ -1,0 +1,4 @@
+const Features_vue_vue_type_style_index_0_scoped_8291e403_lang = '.ribbon-title[data-v-8291e403]{background:#dcf2ff;border-radius:4px;color:#0f172a;padding:10px 20px;position:relative}.dark .ribbon-title[data-v-8291e403]{background:#0f2540;color:#fff}.ribbon-title[data-v-8291e403]:after,.ribbon-title[data-v-8291e403]:before{background:#dcf2ff;bottom:0;content:"";position:absolute;top:0;width:24px}.dark .ribbon-title[data-v-8291e403]:after,.dark .ribbon-title[data-v-8291e403]:before{background:#0f2540}.ribbon-title[data-v-8291e403]:before{clip-path:polygon(100% 0,0 0,50% 100%);left:-12px}.ribbon-title[data-v-8291e403]:after{clip-path:polygon(0 0,100% 0,50% 100%);right:-12px}';
+
+export { Features_vue_vue_type_style_index_0_scoped_8291e403_lang as F };
+//# sourceMappingURL=Features-styles-1.mjs-CzFuNO2G.mjs.map
